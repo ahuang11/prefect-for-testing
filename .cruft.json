@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/PrefectHQ/prefect-collection-template",
+  "commit": "3391329444b9e6de946a77318e6e56cd8f49a23f",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Andrew",
+      "email": "andrew.h@prefect.io",
+      "github_organization": "ahuang11",
+      "collection_name": "prefect-for-testing",
+      "collection_slug": "prefect_for_testing",
+      "collection_short_description": "My personal sandbox for testing!",
+      "_copy_without_render": [
+        ".github/workflows/*.yml"
+      ],
+      "_template": "https://github.com/PrefectHQ/prefect-collection-template"
+    }
+  },
+  "directory": null
+}
